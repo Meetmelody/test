@@ -1,0 +1,26 @@
+p{
+    background-color: cornsilk;
+    padding: 20px;
+}
+span{text-transform: uppercase}
+a{text-decoration: none}
+
+
+table, td, th
+{
+    border:1px solid green;
+}
+table{
+    border-collapse:collapse;
+    width:100%;
+
+}
+th{
+    height: 50px;
+    background-color: green;
+    color: white;
+}
+td{
+    text-align: right;
+    padding: 15px;
+}
